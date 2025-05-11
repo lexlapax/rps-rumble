@@ -86,7 +86,8 @@ Before you begin, ensure you have the following installed:
 ---
 
 ## 📁 Project Structure
-rps-rumble-app/
+```
+rps-rumble/
 ├── public/ # Static assets served to the client
 │ ├── images/ # SVG icons for Rock, Paper, Scissors, favicon
 │ │ ├── rock.svg
@@ -99,7 +100,7 @@ rps-rumble-app/
 ├── package.json # Project metadata and dependencies
 ├── package-lock.json # Records exact versions of dependencies
 └── README.md # This file
-
+```
 
 
 ---
